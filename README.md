@@ -28,3 +28,9 @@ To build the images locally:
  docker build -t hundredwatt/postgres-xid_wraparound:17beta2 -f postgres-xid_wraparound/17beta2.dockerfile .
  docker push hundredwatt/postgres-xid_wraparound:17beta2
 ```
+
+# Demo
+
+Simulate transaction ID exhaustion in 7 seconds:
+
+![Wraparound Demo GIF](https://github.com/hundredwatt/postgres-xid_wraparound/blob/main/docs/wraparound-demo.gif)
