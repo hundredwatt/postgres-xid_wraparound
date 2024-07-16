@@ -2,7 +2,7 @@
 
 This repository contains Docker images for Postgres with the [xid_wraparound](https://github.com/postgres/postgres/tree/master/src/test/modules/xid_wraparound) extension enabled.
 
-The images are available on Docker Hub at [hundredwatt/postgres-xid_wraparound](https://hub.docker.com/repository/docker/hundredwatt/postgres-xid_wraparound/).
+The images are available on Docker Hub at [hundredwatt/postgres-xid_wraparound](https://hub.docker.com/r/hundredwatt/postgres-xid_wraparound).
 
 # Available Tags
 
